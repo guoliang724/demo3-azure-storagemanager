@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\home\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\home\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\services\\iblobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\services\\iblobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\models\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\models\\blob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\blob\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\blob\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\services\\icontainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\services\\icontainerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|c:\\users\\guoliang zhang\\desktop\\project\\demo3-azure-storagemanager\\azurestoragefundamental\\azurestoragefundamental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A655BBF5-4A73-4AC8-926C-E5C9BEA11B11}|AzureStorageFundamental\\AzureStorageFundamental.csproj|solutionrelative:azurestoragefundamental\\azurestoragefundamental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\ContainerService.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Services\\ContainerService.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\ContainerService.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Services\\ContainerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:32:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBlobServices.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\IBlobServices.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Services\\IBlobServices.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\IBlobServices.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Services\\IBlobServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:31:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\BlobService.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Services\\BlobService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:35:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Controllers\\ContainerController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:44:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Images.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Home\\Images.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Home\\Images.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Home\\Images.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Home\\Images.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T22:14:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T22:01:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAjwBkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:17:40.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Models\\Container.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\Container.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Models\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:44:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\BlobController.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Controllers\\BlobController.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Controllers\\BlobController.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Controllers\\BlobController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:54:13.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Blob\\AddFile.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Blob\\AddFile.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Blob\\AddFile.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Blob\\AddFile.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T22:04:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blob.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\Blob.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Models\\Blob.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\Blob.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Models\\Blob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:06:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:06:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Container\\Create.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Container\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Container\\Create.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Container\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAWwBoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T21:19:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T21:27:27.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Container\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Container\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Container\\Index.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Container\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T21:02:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Blob\\Manage.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\Blob\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\Blob\\Manage.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\Blob\\Manage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T21:59:10.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Program.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Program.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Program.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:27:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AzureStorageFundamental\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T22:01:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IContainerServices.cs",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\IContainerServices.cs",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\Services\\IContainerServices.cs",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\Services\\IContainerServices.cs",
+              "RelativeToolTip": "AzureStorageFundamental\\Services\\IContainerServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:30:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AzureStorageFundamental",
+              "DocumentMoniker": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\AzureStorageFundamental.csproj",
+              "RelativeDocumentMoniker": "AzureStorageFundamental\\AzureStorageFundamental.csproj",
+              "ToolTip": "C:\\Users\\Guoliang Zhang\\Desktop\\project\\demo3-azure-storagemanager\\AzureStorageFundamental\\AzureStorageFundamental.csproj",
+              "RelativeToolTip": "AzureStorageFundamental\\AzureStorageFundamental.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T20:29:44.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
